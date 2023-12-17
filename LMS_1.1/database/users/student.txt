@@ -1,5 +1,0 @@
-[1, student, mohamed, mohamedStudent@gmail.com, 123123123]
-[2, student, sayed, sayedStudent@gmail.com, 123123123]
-[3, student, ziad, ziadStudent@gmail.com, 123123123]
-[4, student, mostafa, mostafaStudent@gmail.com, 123123123]
-[11, student, mohamedStudent, student@gmail.com, 123123123]
