@@ -1,0 +1,3 @@
+[2, cs, learn cs, 1]
+[3, it, learn it, 1]
+[4, pl, learn pl, 2]

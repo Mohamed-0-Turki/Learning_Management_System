@@ -1,0 +1,7 @@
+Report Abstarct class
+    => ReportExam class extract Report
+    => ReportAssignment class extract Report
+
+Report
+    => avrageOfGrades
+    => numberOfStudentsTakeExam
