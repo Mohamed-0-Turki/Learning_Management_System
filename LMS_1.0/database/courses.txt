@@ -1,2 +1,0 @@
-[3, cs, ahmed 3, programming]
-[4, cs, ahmed 4, programming]
